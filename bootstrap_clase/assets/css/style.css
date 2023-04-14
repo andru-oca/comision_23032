@@ -1,0 +1,20 @@
+.container-sm {
+    background-color: #999;
+    height: 100vh;
+
+}
+
+
+header {
+    height: 20%;
+    background-color: aquamarine;
+}
+
+main {
+    height: 70%;
+}
+
+footer {
+    height: 10%;
+
+}
